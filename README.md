@@ -1,4 +1,4 @@
-# 💫 About Me 😀:
+# 💫 About Me:
 🚀 Technical Lead | Product Builder | Full Stack Architect<br><br>🔭 Building enterprise SaaS products that solve real business problems<br><br>🏦 Leading the development of SurveyCXM used by major banks and enterprises<br><br>⚙️ Tech Stack: Laravel • Node.js • React • Next.js • Python • React Native • MySQL • PostgreSQL<br><br>🌱 Learning: AI Integrations • LLM Applications • Scalable System Design + Golang (Gin)<br><br>🤝 Looking to collaborate on: SaaS Platforms • FinTech Products • AI Tools • Developer Platforms<br><br>💬 Ask me about: Backend Architecture, Product Development, Laravel, React, Team Leadership<br><br>🏆 Alpha Player Award (2022-23) & Best Leader Award (2024)<br><br>⚡ Fun fact: I've built products across FinTech, Healthcare, Travel, Blockchain, eCommerce and Customer Experience domains.
 
 
