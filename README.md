@@ -24,12 +24,6 @@ Full Stack Developer from India.
 - HappyTummy
 - Dogsee
 
-## Connect With Me
-LinkedIn: https://www.linkedin.com/in/amitkjangir/
-Portfolio: https://amit-jangir.netlify.app/
-Email: mitjangir@gmail.com
-
-
 ## 👨‍💻 About Me
 
 🚀 Technical Lead | Product Builder | Full Stack Architect
@@ -54,3 +48,9 @@ Backend Architecture, Product Development, Laravel, React, Team Leadership
 
 ⚡ Fun fact:
 I've built products across FinTech, Healthcare, Travel, Blockchain, eCommerce and Customer Experience domains.
+
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/amitkjangir/
+Portfolio: https://amit-jangir.netlify.app/
+Email: mitjangir@gmail.com
