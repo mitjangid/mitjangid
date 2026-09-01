@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="mitjangid's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # 💫 About Me:
 🚀 Technical Lead | Product Builder | Full Stack Architect<br><br>🔭 Building enterprise SaaS products that solve real business problems<br><br>🏦 Leading the development of NPS App used by major banks and enterprises<br><br>⚙️ Tech Stack: Laravel • Node.js • React • Next.js • Python • React Native • MySQL • PostgreSQL • Go<br><br>🌱 Learning: AI Integrations • LLM Applications • Scalable System Design + Golang (Gin)<br><br>🤝 Looking to collaborate on: SaaS Platforms • FinTech Products • AI Tools • Developer Platforms<br><br>💬 Ask me about: Backend Architecture, Product Development, Laravel, React<br><br>⚡ Fun fact: I've built products across FinTech, Healthcare, Travel, Blockchain, eCommerce and Customer Experience domains.
 
